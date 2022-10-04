@@ -3,13 +3,6 @@
 Тут вы найдете ссылки на разные полезные сервисы которые вам пригодятся в USA
 Регистрируясь по этим ссылкам вам дадут разные бонусы
 
-### Такси: 
-Uber 
-
-
-Lyft
-https://www.lyft.com/i/OPEG69762?utm_medium=p2pi_iacc
-
 ### Инвестиции: 
 1. Robinhood
 https://join.robinhood.com/olegs-3c4ec9ed
@@ -23,3 +16,9 @@ https://py.pl/1D9YbaNjAPg
 
 2.Venmo
 https://get.venmo.com/4YRsTLXzRtb
+
+### Такси: 
+1. Uber 
+
+2. Lyft
+https://www.lyft.com/i/OPEG69762?utm_medium=p2pi_iacc
