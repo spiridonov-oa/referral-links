@@ -4,6 +4,7 @@
 Регистрируясь по этим ссылкам вам дадут разные бонусы
 
 ### Инвестиции: 
+Потребуют SSN и ID
 1. Robinhood
 https://join.robinhood.com/olegs-3c4ec9ed
 
