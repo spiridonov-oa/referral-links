@@ -14,7 +14,7 @@ https://a.webull.com/FvOteHpZ7rXlAZTpRo
 1. PayPal
 https://py.pl/1D9YbaNjAPg
 
-2.Venmo
+2. Venmo
 https://get.venmo.com/4YRsTLXzRtb
 
 ### Такси: 
