@@ -21,7 +21,7 @@ https://get.venmo.com/4YRsTLXzRtb
 
 ### Криптовалюты. Легкая покупка и хранение
 Тут можно легко купить криптовалюту за доллары с банковской карты и довольно безопасно хранить
-Coinbase
+1. Coinbase
 https://coinbase.com/join/spirid_ty?src=ios-link
 
 ### Такси: 
