@@ -28,8 +28,7 @@ https://coinbase.com/join/spirid_ty?src=ios-link
 
 
 ### Такси: 
-1. Uber 
-
+1. Uber или
 
 2. Lyft
 https://www.lyft.com/i/OPEG69762?utm_medium=p2pi_iacc
