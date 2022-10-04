@@ -12,6 +12,7 @@ https://join.robinhood.com/olegs-3c4ec9ed
 2. Webull
 https://a.webull.com/FvOteHpZ7rXlAZTpRo
 
+
 ### Перевод денег друзьям и системы оплаты:
 1. PayPal
 https://py.pl/1D9YbaNjAPg
@@ -19,16 +20,20 @@ https://py.pl/1D9YbaNjAPg
 2. Venmo
 https://get.venmo.com/4YRsTLXzRtb
 
+
 ### Криптовалюты. Легкая покупка и хранение
 Тут можно легко купить криптовалюту за доллары с банковской карты и довольно безопасно хранить
 1. Coinbase
 https://coinbase.com/join/spirid_ty?src=ios-link
 
+
 ### Такси: 
 1. Uber 
 
+
 2. Lyft
 https://www.lyft.com/i/OPEG69762?utm_medium=p2pi_iacc
+
 
 ### Доставка еды
 1. Ubet Eats
